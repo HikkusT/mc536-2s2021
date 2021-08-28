@@ -11,11 +11,10 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `RA`: `<nome completo>`
+* `240501`: `Luiz Henrique Aguiar de Lima Alves`
 
 ## Tarefa 1 sobre APIs de acesso
-
-> ![Notebook](notebook/lab01.ipynb)
+[Notebook](notebook/lab01.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
 > ![Diagrama de Orquestração](images/Diagram.png)
